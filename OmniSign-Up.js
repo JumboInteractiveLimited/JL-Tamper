@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Omni Sign-Up
 // @namespace http://www.us.chrisj.dev.utah.lan
-// @version    0.2
+// @version    0.3
 // @description  Register customers on all sites
 // @include       http*://*.kr.*/create-account/*
 // @include       http*://*.au.*/create-account/*
@@ -11,8 +11,8 @@
 // @include       http*://www.*.ozssssdreamlotto.com/create-account/*
 // @include       http*://*ozdreamlotto*/create-account/*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js
-// @updateURL
-// @downloadUR
+// @updateURL     https://raw.githubusercontent.com/chrisjoyce911/JL-Tamper/master/OmniSign-Up.js
+// @downloadUR    https://raw.githubusercontent.com/chrisjoyce911/JL-Tamper/master/OmniSign-Up.js
 
 // @copyright  2014+, Chris Joyce
 // ==/UserScript==
